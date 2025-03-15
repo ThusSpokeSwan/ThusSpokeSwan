@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thusspokeswan" alt="thusspokeswan" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development** and am interested in **Machine Learning**
 
 - 📫 How to reach me **thus.spoke.swan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
